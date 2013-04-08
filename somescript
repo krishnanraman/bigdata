@@ -1,0 +1,11 @@
+open employees file1.txt
+columns 3
+column 1 name text
+column 2 age number
+column 3 income decimal
+rows select age > 20
+rows select age < 27
+column add newincome income*1.1 + (age-20)*100
+column remove age
+column remove income
+save file2.txt
