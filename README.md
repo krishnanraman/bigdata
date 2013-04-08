@@ -1,4 +1,5 @@
-bigdata
-=======
+Bigdata Tech Con
+================
 
-Materials for Bigdatatech Con - Boston
+Slides, Scala Code & Data files for my April 8 presentation "Programming with Scalding (& Alebird)"
+
