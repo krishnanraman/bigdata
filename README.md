@@ -17,5 +17,13 @@ PPTX: http://bit.ly/Y9JWNo (Mac only)
 
 PPSX: http://bit.ly/11J1z6z ( Seems to be the best )
 
-Questions/Comments: kraman@twitter.com ( Krishnan Raman, Data Scientist, Twitter )
+Twitter Repos:
+=============
+Scalding: http://github.com/twitter/scalding
+
+Algebird: http://github.com/twitter/algebird
+
+Questions/Comments: kraman@twitter.com
+
+( Krishnan Raman, Data Scientist, Twitter )
 On Twitter: @dxbydt_jasq
