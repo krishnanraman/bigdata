@@ -1,0 +1,163 @@
+API Core	20
+API Services	1
+Accounting	1
+Ads	3
+Analytics	21
+Analytics Infrastructure	23
+Anti-Spam	27
+App Companion	2
+Application Services	1
+Aurora	9
+Blob-Store	1
+Build & Release	22
+COO - G+A	1
+Cache	279
+Capacity Services	6
+Cards	15
+Configuration	3
+Content	2
+Content Discovery	40
+Content Discovery Infra.	3
+Content Knowledge	8
+Coordination	10
+Core Services	35
+Core Storage & Database Engineering	37
+Core Svcs - Geo	7
+Core Svcs - Gizmoduck	4
+Core Svcs - Product Security	11
+Core Svcs - T.co	23
+Core Svcs - Timelines	1
+Core Svcs - Tweets and DMs	38
+Core storage & Database engineering	11
+Core storage & database engineering	10
+Corporate Productivity	5
+DBA	72
+DC Services	6
+Data Infrastructure	4
+Data Services	33
+Datacenter	5
+Demand Services	25
+Discovery	31
+Documentation	1
+Eng - Activation & Messaging	13
+Eng - Activation + Messaging	2
+Eng - Growth	3
+Eng - international	38
+Engineering	19
+Fleet Management	1
+Gazebo	7
+Gizmoduck	1
+Growth	7
+Hadoop	8
+Hardware Eng & Demand Svcs	59
+Hardware Eng + Demand Svcs	5
+Hardware Engineering & Delivery	57
+IT	1
+Infrastructure Automation	3
+Infrastructure Production Services	4
+Insights Team	8
+Internal Tools	1
+International Engineering	3
+Lifeline	1
+Manageability Services	4
+Manhattan/Cassandra	437
+Media Services	8
+Messaging	2
+Messaging Team	20
+Mobile	33
+Mobile-Messaging	2
+Network Engineering	3
+Networking Eng	1
+Observability	1
+Observability Product	41
+Operations Engineering	15
+PS - Applications Security	2
+PS - Product Security	7
+Personalization + Rec Systems	7
+Personalization and Recommender Systems	3
+Personalization and recommender systems	2
+Platform	2
+Platform Infrastructure	3
+Platform Product	1
+Platform Relations	1
+Platform Service	3
+Platform Services	674
+Platform Services - Developer Productivity	1
+Platform services	10
+Plattools	3
+Prod - Growth	19
+Provisioning Engineering	7
+Public	30
+Relevance	13
+Revenue Eng & Product	154
+Revenue Eng + Product	20
+Revenue TV	1
+Runtime Systems	252
+Runtime systems	2
+SRE	117
+Search	124
+Security	10
+Storm	1
+Streaming Compute	601
+T+S - Engineering	3
+TCC	97
+TEAM_NAME	1
+TV + Video	6
+Technical Program Management	1
+Timelines Quality	3
+Trends	15
+Trends + Events	1
+Trust and Safety - Engineering	14
+TweetDeck	8
+Twitter Command Center	4
+User Discovery	16
+User Discovery & Personalization	42
+User Services - Engineering	18
+Web	26
+Web Client	1
+Zookeeper	2
+analytics	1
+api-frameworks	5
+blobcore	2
+capacity-eng	1
+cassowary	12
+core services	6
+core-storage-team	13
+data services	29
+data-services-eng	4
+dba-team	1
+eng	2
+glassbird-team	2
+goservice-team	1
+growth	1
+growth-team	8
+hadoop-team	9
+kingfisher-team	2
+macaw-bucks-team	1
+macaw-search-team	17
+marul	1
+marulexample-team	1
+mesos	4
+mobile	1
+obs-team	1
+observability	4
+observability-team	11
+operations engineering	1
+os-team	3
+platform	2
+platform services	1
+platform-analytics	4
+platform-intelligence	4
+platform-svcs-team	3
+product-security	2
+revenue-eng-team	1
+runtime-systems	1
+sdzookeeper	2
+szookeeper	2
+talon	1
+team_name	1
+trends	6
+trends-events-team	1
+usertopics-team	1
+virality	1
+web	1
