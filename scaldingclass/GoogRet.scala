@@ -26,8 +26,13 @@ class GoogRet(args:Args) extends Job(args) {
     def lt(a:(String,Double), b:(String, Double)) = {
       val arr = a._1.split("-")
       val brr = b._1.split("-")
-      (arr(0).toInt < brr(0).toInt) && (arr(1) == brr(1)) && (arr(2) == brr(2))
+      val months = List("jan", "feb", "mar", "apr", ",may", "jun", "jul", "aug", "sep", "oct", "nov","dec")
+      (arr(1) == brr(1)) match {
+        case true => arr(0).toInt < brr(0).toInt
+        case _ => months.indexOf(arr(1)) < months.indexOf(brr(1))
+      }
     }
+
     val dp = dates.zip(prices).sortWith(lt)
     val (d,p) = dp.unzip
     d.zip(p.zip(p.tail))
