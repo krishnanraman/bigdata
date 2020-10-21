@@ -23,7 +23,4 @@ Scalding: http://github.com/twitter/scalding
 
 Algebird: http://github.com/twitter/algebird
 
-Questions/Comments: kraman@twitter.com
-
-( Krishnan Raman, Data Scientist, Twitter )
-On Twitter: @dxbydt_jasq
+(Krishnan Raman (Prev: Data Scientist at Twitter 2012-2014)
